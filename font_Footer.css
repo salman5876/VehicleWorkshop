@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+	.fname{font-size: 30px;
+		text-transform:capitalize;
+			font-family:  cursive;
+		}
+		.Footers
+		{
+			text-align: right;
+			right:auto;
+		}
+
+		
+.nav1:hover{
+  transform: scale(1.1);
+}
+		
+.overlay:hover{
+	
+  transform: scale(1.2);
+}
+		
+		.services
+		{
+			color :  red;
+			
+		}
